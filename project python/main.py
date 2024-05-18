@@ -1,7 +1,7 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #
 #       CODED: bY Team alpha
-#       DaTe: in progress
+#       DaTe: 18.5.2024
 #       Dev: Python (TKinter)
 #
 # ~~~~~~~~~~~ INFO ~~~~~~~~~~~~~~~~~~~
