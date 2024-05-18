@@ -1,0 +1,11 @@
+Hi this the project python coded by team alpha
+This is a low level python project tool which can create a wordlist with the word you given
+Requirments:
+messagebox =0.1.0
+ittertools
+sys
+tkinter
+Senario:
+In cyber sec field if you come accross a situation where you know the password but which in ordered in a
+different manner like jumbled word in that situvation we can use this
+:)
